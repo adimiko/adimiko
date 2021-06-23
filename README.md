@@ -5,7 +5,7 @@ I am currently working as an IT Administrator.
 I am a graduate of the Warsaw School of Computer Science (field of study: Software Engineering).  
 My hobbies are programing and street workout.  
 
-**Languages and Tools:**
+**Languages and Tools**
 * C#
 * ASP.NET
 * WindowsForms
