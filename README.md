@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-I am Adrian Mikołajczyk.
-I am currently working as an IT administrator.
-I am a graduate of the Warsaw School of Computer Science (field of study: Software Engineering).
-My hobbies are programing and street workout.
+I am Adrian Mikołajczyk.  
+I am currently working as an IT administrator.  
+I am a graduate of the Warsaw School of Computer Science (field of study: Software Engineering).  
+My hobbies are programing and street workout.  
 
 **Languages and Tools:**
-C#
-ASP.NET
-WindowsForms
-dotnet CLI
-Docker
-Postman
-Visual Studio Code
-Visual Studio 2019
+* C#
+* ASP.NET
+* WindowsForms
+* dotnet CLI
+* Docker
+* Postman
+* Visual Studio Code
+* Visual Studio 2019
 
 
 <!--
