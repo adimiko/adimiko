@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi, I'm Adrian Mikołajczyk 👋
+IT Administrator
 
-I am Adrian Mikołajczyk.  
-I am currently working as an IT Administrator.  
-I am a graduate of the Warsaw School of Computer Science (field of study: Software Engineering).  
-My hobbies are programing and street workout.  
+Software Enginner at Warsaw School of Computer Science  _[ENG](https://wscs.eu) | [PL](https://wwsi.edu.pl/)_  
+Hobbies: _Programing | Street workout | Economy | Finance_
 
 **Languages and Tools**
 * C#
