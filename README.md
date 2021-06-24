@@ -1,18 +1,12 @@
 ### Hi, I'm Adrian Mikołajczyk 👋
 IT Administrator
 
-Software Enginner at Warsaw School of Computer Science  _[ENG](https://wscs.eu) | [PL](https://wwsi.edu.pl/)_  
-Hobbies: _Programing | Street workout | Economy | Finance_
+Software Enginner at Warsaw School of Computer Science :man_student: _[ENG](https://wscs.eu) | [PL](https://wwsi.edu.pl/)_  
+Hobbies: _Programing :computer: | Street workout :man_cartwheeling: | Finance_  :money_with_wings: | Economy :chart:  
 
-**Languages and Tools**
-* C#
-* ASP.NET
-* WindowsForms
-* Dotnet CLI
-* Docker
-* Postman
-* Visual Studio Code
-* Visual Studio 2019
+**Languages and Tools** :hammer_and_wrench:   
+
+_C# | ASP.NET | WindowsForms | Docker | Postman | Visual Studio Code | Visual Studio_
 
 
 <!--
