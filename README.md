@@ -8,7 +8,7 @@ Hobbies: _Programing :computer: | Street workout :man_cartwheeling: | Finance_  
 
 _C# | ASP.NET | WindowsForms | Docker | Postman | Visual Studio Code | Visual Studio_
 
-
+![programming](https://user-images.githubusercontent.com/53557466/123773133-b9f98e80-d8cc-11eb-9392-f66a11afb8d4.gif)
 <!--
 **adimiko/adimiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
