@@ -1,5 +1,5 @@
 ### Hi, I'm Adrian Mikołajczyk 👋
-Junior .NET Developer
+.NET Developer
 
 Software Enginner at Warsaw School of Computer Science :man_student: _[ENG](https://wscs.eu) | [PL](https://wwsi.edu.pl/)_  
 Hobbies: _Programing :computer: | Street workout :man_cartwheeling: | Finance_  :money_with_wings: | Economy :chart:  
